@@ -1,6 +1,15 @@
+:root{
+    --my-primaycolor: #1b72e8;
+}
+.bg-my-primary-color{
+    background-color: var(--my-primaycolor);
+}
 .my-image{
     width: 100%;
 }
-.my-search{
-    width: 50%;
+.my-image-mobile{
+    width: 60%;
+}
+.my-border{
+    border: none;
 }
