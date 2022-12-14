@@ -20,6 +20,23 @@
 .my-button:hover{
     cursor:not-allowed;
 }
+.my-img-avatar{
+    width: 20px;
+}
+.my-done, .my-failed ,.my-process{
+    padding: 3px 12px;
+    border-radius: 10px;
+    color: white;
+}
+.my-done{
+    background-color: green;
+}
+.my-process{
+    background-color: yellow;
+}
+.my-failed{
+    background-color: red;
+}
 .my-button{
     background-color: white;
     border-radius: 4px;
